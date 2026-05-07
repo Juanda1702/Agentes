@@ -19,5 +19,5 @@ jobs:
           google_credentials: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
           config: |
             sync:
-              - drive_folder_id: "176p71G1laV4UOzR3-UuZdxjgICnQNw8M?hl"
+              - drive_folder_id: "176p71G1laV4UOzR3-UuZdxjgICnQNw8M"
                 github_folder: "docs/mi-carpeta"
